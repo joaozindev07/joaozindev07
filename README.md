@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o João 🧑‍🎓</h1>
 
-<!--
-**joaozindev07/joaozindev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Este é meu GitHub escolar, onde compartilho projetos da faculdade e do TCC 👨‍💻
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Sobre
+
+- Estudante de desenvolvimento web e mobile  
+- Repositório focado em atividades acadêmicas, TCC e experimentações  
+- Apaixonado por React, React Native e tecnologias modernas  
+
+---
+
+### 💼 Projetos Acadêmicos
+
+- 📁 `site-policia-federal` – Projeto de site institucional desenvolvido com HTML/CSS  
+- 🧊 `igloo-site` – Interface web com foco em design responsivo  
+
+> ⚠️ Outros projetos, incluindo o TCC, estão em desenvolvimento e serão públicos em breve.
+
+---
+
+### 📌 Tecnologias utilizadas
+
+- HTML, CSS, JavaScript  
+- React e React Native  
+- Git, GitHub  
+- Experimentos com backend via Firebase e APIs REST  
+
+---
+
+### 📚 TCC (em breve)
+
+Meu Trabalho de Conclusão de Curso está em fase final e será publicado aqui quando possível. Ele envolve:
+
+- Desenvolvimento Mobile  
+- Integração com APIs  
+- Experiência do usuário (UX) e boas práticas de UI  
+
+---
+
+### 📬 Contato acadêmico
+
+- E-mail institucional: joao.estudante@escola.com.br  
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+
+---
+
+*Obrigado por visitar!*
+
