@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o João 🧑‍🎓</h1>
 
 <p align="center">
-  Este é meu GitHub escolar, onde compartilho projetos da faculdade e do TCC 👨‍💻
+  Este é meu GitHub escolar, onde compartilho projetos da Etec e do TCC 👨‍💻
 </p>
 
 ---
